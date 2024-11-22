@@ -1,9 +1,9 @@
 import pandas as pd
 
-def convert_to_CSV(StringValue):
+def convert_to_nothing(filename):
     # Path of the uploaded file
-    input_file_path = f'{StringValue}.xlsx'
-    output_file_path = f'{StringValue}_UTF8.csv'
+    input_file_path = f'{filename}.xlsx'
+    output_file_path = f'{filename}_UTF8.csv'
 
     # Load the Excel file
     data = pd.read_excel(input_file_path)
@@ -13,4 +13,4 @@ def convert_to_CSV(StringValue):
 
     return output_file_path
 
-convert_to_CSV('StringTable')
+convert_to_nothing('StringTable')
