@@ -1,6 +1,6 @@
 import pandas as pd
 
-def convertFilesIntoCSVFromXlsx(StringValue):
+def convertFilesIntoCSV(StringValue):
     # Path of the uploaded file
     input_file_path = f'{StringValue}.xlsx'
     output_file_path = f'{StringValue}_UTF8.csv'
