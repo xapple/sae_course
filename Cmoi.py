@@ -1,4 +1,4 @@
-i=""
+i=None
 
 while i != "bonjour":
     i = input("Dis bonjour: ")
