@@ -1,0 +1,33 @@
+// this is a dreamberd file
+// dreamerd is the best language in the world!
+
+print("Hello world")! // end with exclamation mark
+
+const const test = "foo"!!! // how many we want!!!
+test? // log to console
+test.pop()!
+test?
+
+var const name = "bob"! // need to stay a string
+name = "Bob"!
+
+const const const pi = 3! // const const const for strict constant
+
+const const 5 = 4! // variable name can be anythin!
+print(2 + 2 === 5)! //true
+
+const const scores = [3, 2, 5]! // array start at -1 because yay
+print(scores[-1])! //3
+print(scores[0])!  //2
+print(scores[1])!  //5
+
+const const fortwoLine<2> = "that's interesting"! //lasts for two lines
+const const WOOAHHH<Infinity> = "TO INFINITY AND BEYOND"!
+
+print(magic)! // goes back in time
+const const magic<-1> = "goes back in time"!
+
+
+// this language is so cool!
+// more at github.com/TodePond/DreamBerd
+

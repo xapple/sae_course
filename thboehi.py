@@ -57,3 +57,5 @@ while True:
         
         print("!! Erreur : Merci de donner un nombre...")
         continue
+
+print("Yo.")

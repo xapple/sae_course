@@ -1,6 +1,6 @@
 import pandas as pd
 
-def convert_to_CSV(filename):
+def convert_to_nothing(filename):
     # Path of the uploaded file
     input_file_path = f'{filename}.xlsx'
     output_file_path = f'{filename}_UTF8.csv'
@@ -13,4 +13,4 @@ def convert_to_CSV(filename):
 
     return output_file_path
 
-convert_to_CSV('StringTable')
+convert_to_nothing('StringTable')
