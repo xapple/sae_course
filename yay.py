@@ -1,2 +1,2 @@
 while (True):
-    input("coucou")
+    input("Heyyy")
