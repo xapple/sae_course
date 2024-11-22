@@ -1,6 +1,6 @@
 import pandas as pd
 
-def convertIntoCSVFromXlsx(StringValue):
+def convertmebg(StringValue):
     # Path of the uploaded file
     input_file_path = f'{StringValue}.xlsx'
     output_file_path = f'{StringValue}_UTF8.csv'
@@ -13,4 +13,4 @@ def convertIntoCSVFromXlsx(StringValue):
 
     return output_file_path
 
-convert_to_CSV('StringTable')
+convertmebg('StringTable')
