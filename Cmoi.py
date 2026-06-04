@@ -1,8 +1,8 @@
-i=""
+i=None
 
 while i != "bonjour":
     i = input("Dis bonjour: ")
     if (i != "bonjour"):
         print("J'ai dis de dire bonjour")
 
-print("Merci")
+print("Merci, tu es gentil")
