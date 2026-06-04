@@ -1,4 +1,4 @@
-# `sae_course` version 0.3.0
+# `sae_course` version 0.4.0
 
 This is an example repository useful for trying things out in git.
 
