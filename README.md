@@ -1,7 +1,5 @@
 # `sae_course` version 0.2.0
 
-![Danse gif](https://cinedia.fr/wp-content/uploads/2020/10/danse-gif.gif)
-
 This is an example repository useful for trying things out in git.
 
 ### Revision control
